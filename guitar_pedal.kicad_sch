@@ -3391,12 +3391,6 @@
 		(uuid "f8c9c49c-2a37-4454-9ac1-060a36c13ea1")
 	)
 	(junction
-		(at 270.51 262.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "004473cb-72c9-4e8b-93e3-9a2fc0d92296")
-	)
-	(junction
 		(at 322.58 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3451,10 +3445,22 @@
 		(uuid "215516f7-8620-40c9-9933-a8b3c2c46d83")
 	)
 	(junction
+		(at 87.63 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24e53d6b-4e73-4bab-b9ad-50b11b1138f7")
+	)
+	(junction
 		(at 157.48 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d00bff0-282d-4050-b54a-af2a5d9e7899")
+	)
+	(junction
+		(at 67.31 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "341eadaa-4e38-44e5-ad1b-c4bac641f48a")
 	)
 	(junction
 		(at 207.01 162.56)
@@ -3469,6 +3475,12 @@
 		(uuid "393710f1-94d1-4bee-9229-09b8d8cd3a29")
 	)
 	(junction
+		(at 63.5 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b0f5615-5a17-4018-aa91-3abc8c03d475")
+	)
+	(junction
 		(at 259.08 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3479,12 +3491,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "414d1330-5124-41a0-a0ea-1a733bac014d")
-	)
-	(junction
-		(at 59.69 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43d08ee3-eaa8-4fb5-b496-b7ec19a71fad")
 	)
 	(junction
 		(at 514.35 226.06)
@@ -3529,12 +3535,6 @@
 		(uuid "520c3cea-d2f8-4631-b95a-0a6752e57b05")
 	)
 	(junction
-		(at 71.12 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "571eae05-60b7-4630-8fbc-917d48055f6b")
-	)
-	(junction
 		(at 219.71 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3545,12 +3545,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59902ce4-3c15-4488-b02d-e226303f360c")
-	)
-	(junction
-		(at 87.63 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5a40e3ef-0c24-4d2b-bb17-5ed70b665b1f")
 	)
 	(junction
 		(at 135.89 68.58)
@@ -3679,12 +3673,6 @@
 		(uuid "9415c9b7-ac28-4de5-b36f-5dd8c88f2144")
 	)
 	(junction
-		(at 54.61 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9443134c-2784-42e2-a233-a3124146cc2c")
-	)
-	(junction
 		(at 361.95 252.73)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3697,7 +3685,7 @@
 		(uuid "991ca2f8-af55-408c-9975-9dc7c3392603")
 	)
 	(junction
-		(at 276.86 262.89)
+		(at 275.59 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1df32e9-902d-4fee-9a68-fea98e6016bc")
@@ -3755,6 +3743,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1c66ac7-597d-4f56-827a-1bb32e1f354e")
+	)
+	(junction
+		(at 269.24 262.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b56e44f1-0cca-45ef-bf77-9fa206b7019f")
+	)
+	(junction
+		(at 77.47 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c05f5559-d36f-4dc7-a22b-2fdf4327e3dd")
 	)
 	(junction
 		(at 226.06 73.66)
@@ -3860,7 +3860,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 271.78) (xy 276.86 273.05)
+			(xy 275.59 271.78) (xy 275.59 273.05)
 		)
 		(stroke
 			(width 0)
@@ -3980,7 +3980,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 262.89) (xy 270.51 264.16)
+			(xy 269.24 262.89) (xy 269.24 264.16)
 		)
 		(stroke
 			(width 0)
@@ -4160,7 +4160,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 271.78) (xy 270.51 273.05)
+			(xy 269.24 271.78) (xy 269.24 273.05)
 		)
 		(stroke
 			(width 0)
@@ -4270,7 +4270,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 158.75) (xy 207.01 162.56)
+			(xy 207.01 160.02) (xy 207.01 162.56)
 		)
 		(stroke
 			(width 0)
@@ -4530,16 +4530,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 262.89) (xy 270.51 262.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38d04b00-a936-4304-bf2a-8e4983caccb1")
-	)
-	(wire
-		(pts
 			(xy 295.91 167.64) (xy 295.91 168.91)
 		)
 		(stroke
@@ -4550,7 +4540,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 138.43) (xy 59.69 139.7)
+			(xy 67.31 137.16) (xy 67.31 138.43)
 		)
 		(stroke
 			(width 0)
@@ -4630,16 +4620,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 128.27) (xy 59.69 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ffe16e1-790a-4919-9f52-542047e93701")
-	)
-	(wire
-		(pts
 			(xy 347.98 163.83) (xy 347.98 165.1)
 		)
 		(stroke
@@ -4650,7 +4630,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 149.86) (xy 207.01 151.13)
+			(xy 207.01 151.13) (xy 207.01 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4690,7 +4670,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 262.89) (xy 270.51 262.89)
+			(xy 275.59 262.89) (xy 269.24 262.89)
 		)
 		(stroke
 			(width 0)
@@ -4970,7 +4950,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 128.27) (xy 54.61 128.27)
+			(xy 60.96 128.27) (xy 63.5 128.27)
 		)
 		(stroke
 			(width 0)
@@ -5080,7 +5060,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 130.81) (xy 59.69 128.27)
+			(xy 67.31 129.54) (xy 67.31 128.27)
 		)
 		(stroke
 			(width 0)
@@ -5340,7 +5320,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 135.89) (xy 53.34 135.89)
+			(xy 63.5 135.89) (xy 62.23 135.89)
 		)
 		(stroke
 			(width 0)
@@ -5410,7 +5390,7 @@
 	)
 	(wire
 		(pts
-			(xy 473.71 148.59) (xy 473.71 151.13)
+			(xy 473.71 148.59) (xy 473.71 149.86)
 		)
 		(stroke
 			(width 0)
@@ -5660,7 +5640,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 133.35) (xy 54.61 133.35)
+			(xy 62.23 133.35) (xy 63.5 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5900,13 +5880,23 @@
 	)
 	(wire
 		(pts
-			(xy 473.71 158.75) (xy 473.71 176.53)
+			(xy 473.71 157.48) (xy 473.71 176.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "87348879-8a50-4fd8-b39a-ce7ac2cc569b")
+	)
+	(wire
+		(pts
+			(xy 77.47 128.27) (xy 78.74 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "875261a1-fc4b-4f7d-9177-415817df4154")
 	)
 	(wire
 		(pts
@@ -6010,7 +6000,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 128.27) (xy 71.12 130.81)
+			(xy 77.47 128.27) (xy 77.47 129.54)
 		)
 		(stroke
 			(width 0)
@@ -6060,7 +6050,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 128.27) (xy 87.63 128.27)
+			(xy 86.36 128.27) (xy 87.63 128.27)
 		)
 		(stroke
 			(width 0)
@@ -6160,7 +6150,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 261.62) (xy 276.86 262.89)
+			(xy 275.59 261.62) (xy 275.59 262.89)
 		)
 		(stroke
 			(width 0)
@@ -6210,7 +6200,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 264.16) (xy 276.86 262.89)
+			(xy 275.59 264.16) (xy 275.59 262.89)
 		)
 		(stroke
 			(width 0)
@@ -6520,6 +6510,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 128.27) (xy 67.31 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1b84a17-f946-49a6-bf63-b3d7df333c19")
+	)
+	(wire
+		(pts
 			(xy 492.76 226.06) (xy 514.35 226.06)
 		)
 		(stroke
@@ -6760,16 +6760,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 128.27) (xy 73.66 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c13c82b3-252f-4cb1-8341-7fd1f7a76040")
-	)
-	(wire
-		(pts
 			(xy 327.66 252.73) (xy 316.23 252.73)
 		)
 		(stroke
@@ -6880,7 +6870,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 138.43) (xy 71.12 139.7)
+			(xy 77.47 137.16) (xy 77.47 138.43)
 		)
 		(stroke
 			(width 0)
@@ -7240,7 +7230,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 133.35) (xy 54.61 128.27)
+			(xy 63.5 133.35) (xy 63.5 128.27)
 		)
 		(stroke
 			(width 0)
@@ -7350,7 +7340,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 139.7) (xy 54.61 135.89)
+			(xy 63.5 138.43) (xy 63.5 135.89)
 		)
 		(stroke
 			(width 0)
@@ -7460,6 +7450,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 262.89) (xy 269.24 262.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec566e99-ed28-4932-859a-03a53d3edd41")
+	)
+	(wire
+		(pts
 			(xy 361.95 251.46) (xy 361.95 252.73)
 		)
 		(stroke
@@ -7510,7 +7510,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 128.27) (xy 60.96 128.27)
+			(xy 67.31 128.27) (xy 68.58 128.27)
 		)
 		(stroke
 			(width 0)
@@ -7660,7 +7660,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 128.27) (xy 71.12 128.27)
+			(xy 76.2 128.27) (xy 77.47 128.27)
 		)
 		(stroke
 			(width 0)
@@ -7875,7 +7875,7 @@
 	)
 	(global_label "CIRCUIT_IN"
 		(shape input)
-		(at 49.53 128.27 180)
+		(at 60.96 128.27 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7885,7 +7885,7 @@
 		)
 		(uuid "3ede02e3-78a5-4c85-aacd-9c85dd764e20")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 36.3242 128.27 0)
+			(at 47.7542 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7932,7 +7932,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02eb840e-6e10-405b-acb2-173c61eb7748")
-		(property "Reference" "D11"
+		(property "Reference" "LED2"
 			(at 350.774 43.942 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7998,6 +7998,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 347.98 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 347.98 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "00fb52a8-9ddb-47cb-a050-e364b782dca2")
 		)
@@ -8007,7 +8029,7 @@
 		(instances
 			(project "guitar_pedal"
 				(path "/dd0139fe-effa-4fc9-aa3a-e910eab7fd1d"
-					(reference "D11")
+					(reference "LED2")
 					(unit 1)
 				)
 			)
@@ -8102,7 +8124,7 @@
 		(dnp no)
 		(uuid "034d79e7-54ad-4732-bcc9-8373442b6c29")
 		(property "Reference" "C20"
-			(at 375.92 179.324 90)
+			(at 375.92 179.07 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8112,7 +8134,7 @@
 			)
 		)
 		(property "Value" "15n"
-			(at 375.92 181.864 90)
+			(at 375.92 180.848 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8144,6 +8166,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 375.92 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 375.92 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 375.92 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -8412,6 +8456,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 342.9 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 342.9 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "216b0ddd-b97b-47ca-b499-985e0e622d5e")
 		)
@@ -8516,7 +8582,7 @@
 		(dnp no)
 		(uuid "093a326d-b7fc-4d90-ab5b-16c3f7b0473c")
 		(property "Reference" "R25"
-			(at 137.922 60.452 0)
+			(at 137.668 61.214 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8527,7 +8593,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 137.922 62.738 0)
+			(at 137.668 62.992 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8560,6 +8626,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 135.89 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 135.89 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 135.89 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8639,6 +8727,28 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 490.22 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 490.22 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 490.22 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8823,6 +8933,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 195.58 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 195.58 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "997a8747-41a1-4d7c-a920-7f81a336466b")
 		)
@@ -8868,7 +9000,7 @@
 		(dnp no)
 		(uuid "0fa798c7-f820-4612-9ba8-03efb8ec61d7")
 		(property "Reference" "R10"
-			(at 190.754 176.53 0)
+			(at 190.754 174.244 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8879,7 +9011,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 191.77 173.99 0)
+			(at 191.77 176.022 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8922,6 +9054,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 185.42 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 185.42 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "49cbf038-94fd-4cd6-91fd-378900fb3e06")
 		)
@@ -8947,7 +9101,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1030806d-b520-4896-9724-a67e20b2ad40")
 		(property "Reference" "#PWR010"
 			(at 361.95 255.27 0)
@@ -8961,7 +9114,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 361.95 246.38 0)
+			(at 361.95 247.396 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9038,7 +9191,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 209.804 171.45 0)
+			(at 209.804 170.942 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9096,6 +9249,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=E 2=B 3=C"
+			(at 204.47 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 204.47 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -9178,6 +9342,28 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 148.59 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 148.59 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 148.59 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -9365,6 +9551,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 318.77 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 318.77 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2166ec0d-d65c-48f0-9304-89b502f06d51")
 		)
@@ -9462,6 +9670,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 440.69 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 440.69 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "2b227a67-a873-4ac1-9d8d-4cdbab73f0cc")
 		)
@@ -9507,7 +9737,7 @@
 		(dnp no)
 		(uuid "18f7c597-7787-4d83-9ae5-bf7438799470")
 		(property "Reference" "R26"
-			(at 149.352 76.454 0)
+			(at 149.606 76.454 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9518,7 +9748,7 @@
 			)
 		)
 		(property "Value" "56k"
-			(at 149.352 78.994 0)
+			(at 149.606 78.486 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9561,6 +9791,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 154.94 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 154.94 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "729ba78c-c8a3-47e1-90d2-d4fb74957511")
 		)
@@ -9586,7 +9838,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "192846a3-f156-4127-83a1-c222549fbf98")
 		(property "Reference" "#PWR035"
 			(at 384.81 278.13 0)
@@ -9600,7 +9851,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 384.81 276.86 0)
+			(at 384.81 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9666,7 +9917,7 @@
 		(dnp no)
 		(uuid "19c8f6b9-1a0f-409c-9540-25cdb5273271")
 		(property "Reference" "R29"
-			(at 224.536 78.74 0)
+			(at 224.536 79.248 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9677,7 +9928,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 224.536 81.28 0)
+			(at 224.536 81.026 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9710,6 +9961,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 229.87 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 229.87 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 229.87 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9824,7 +10097,7 @@
 		(dnp no)
 		(uuid "19fbcc2b-e849-4829-b6ac-cd63ae598edd")
 		(property "Reference" "R18"
-			(at 307.34 170.688 90)
+			(at 307.34 170.18 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9834,7 +10107,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 307.34 172.974 90)
+			(at 307.34 172.212 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9876,6 +10149,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 307.34 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 307.34 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6eb13910-9dad-4e6a-8c99-d2553e16b625")
 		)
@@ -9903,7 +10198,7 @@
 		(dnp no)
 		(uuid "1afaed06-d5c4-4866-a31e-336e40b57ef3")
 		(property "Reference" "C18"
-			(at 316.23 171.704 90)
+			(at 316.23 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9913,7 +10208,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 316.23 174.244 90)
+			(at 316.23 173.482 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9955,6 +10250,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 316.23 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 316.23 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d2de80b4-555c-4aa9-9eac-2f5b25098e30")
 		)
@@ -9982,7 +10299,7 @@
 		(dnp no)
 		(uuid "1db16b6a-5d44-4d12-ac6c-6987055f3bfa")
 		(property "Reference" "C23"
-			(at 468.376 146.304 0)
+			(at 468.122 144.526 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9992,7 +10309,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 468.376 143.764 0)
+			(at 468.63 146.558 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10034,6 +10351,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 473.71 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 473.71 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "89356653-9ff6-4d3a-99c9-2ec7db864c1d")
 		)
@@ -10051,7 +10390,7 @@
 	)
 	(symbol
 		(lib_id "power:+9V")
-		(at 207.01 149.86 0)
+		(at 207.01 151.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10061,7 +10400,7 @@
 		(dnp no)
 		(uuid "1eb522b5-9488-4df8-a393-244ac78e1ec5")
 		(property "Reference" "#PWR029"
-			(at 207.01 153.67 0)
+			(at 207.01 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10072,7 +10411,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 207.01 145.542 0)
+			(at 207.01 146.812 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10082,7 +10421,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 149.86 0)
+			(at 207.01 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10093,7 +10432,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 149.86 0)
+			(at 207.01 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10104,7 +10443,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+9V\""
-			(at 207.01 149.86 0)
+			(at 207.01 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10136,10 +10475,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1f515795-1595-43f1-9fee-b5475c92bea8")
 		(property "Reference" "U1"
-			(at 97.79 120.65 0)
+			(at 100.076 123.698 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10149,7 +10487,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 97.79 123.19 0)
+			(at 100.076 125.73 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10181,6 +10519,28 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 97.79 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 97.79 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 97.79 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10280,6 +10640,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 139.7 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 139.7 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 139.7 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -10482,7 +10864,7 @@
 			)
 		)
 		(property "Value" "470k"
-			(at 483.362 123.698 0)
+			(at 482.092 123.698 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10515,6 +10897,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 480.06 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 480.06 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 480.06 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -10607,6 +11011,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
+			(at 492.76 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 492.76 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b8c33b90-9d92-425b-8953-8c5a39d519e6")
 		)
@@ -10631,7 +11057,7 @@
 		(dnp no)
 		(uuid "2417fe4b-9051-46a8-b9fc-fa0f4d771e98")
 		(property "Reference" "R6"
-			(at 83.312 122.174 0)
+			(at 89.154 122.174 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10642,7 +11068,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 83.312 124.714 0)
+			(at 89.154 124.206 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10685,6 +11111,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 87.63 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 87.63 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d4275d4d-0606-4a4b-93ee-0edc1739cfee")
 		)
@@ -10702,7 +11150,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 270.51 273.05 0)
+		(at 269.24 273.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10712,7 +11160,7 @@
 		(dnp no)
 		(uuid "2453f798-16d0-45aa-9ab4-c2f00c40a575")
 		(property "Reference" "#PWR024"
-			(at 270.51 279.4 0)
+			(at 269.24 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10723,7 +11171,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 270.51 277.114 0)
+			(at 269.24 277.114 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10733,7 +11181,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 270.51 273.05 0)
+			(at 269.24 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10744,7 +11192,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 273.05 0)
+			(at 269.24 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10755,7 +11203,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 270.51 273.05 0)
+			(at 269.24 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10920,6 +11368,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 383.54 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 383.54 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bcdee47a-66d1-4fe2-b91b-9ec903f7fed6")
 		)
@@ -10937,7 +11407,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 59.69 134.62 0)
+		(at 67.31 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10947,7 +11417,7 @@
 		(dnp no)
 		(uuid "2a88c4d6-60d3-4295-9a62-4c0f5988436d")
 		(property "Reference" "R5"
-			(at 61.468 133.35 0)
+			(at 69.088 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10958,7 +11428,7 @@
 			)
 		)
 		(property "Value" "4.7M"
-			(at 61.468 135.89 0)
+			(at 69.088 134.112 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10969,7 +11439,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 57.912 134.62 90)
+			(at 65.532 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10980,7 +11450,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 134.62 0)
+			(at 67.31 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10991,7 +11461,29 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 59.69 134.62 0)
+			(at 67.31 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 67.31 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 67.31 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11018,7 +11510,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 270.51 267.97 0)
+		(at 269.24 267.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11028,7 +11520,7 @@
 		(dnp no)
 		(uuid "2dd39c5f-b263-4866-992d-557f81c86eb1")
 		(property "Reference" "C4"
-			(at 264.922 267.208 0)
+			(at 263.652 267.208 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11039,7 +11531,7 @@
 			)
 		)
 		(property "Value" "47u"
-			(at 263.906 269.494 0)
+			(at 262.636 269.494 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11049,8 +11541,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
-			(at 271.4752 271.78 0)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+			(at 270.2052 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11061,7 +11553,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 267.97 0)
+			(at 269.24 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11072,7 +11564,29 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 270.51 267.97 0)
+			(at 269.24 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 269.24 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 269.24 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11162,6 +11676,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 528.32 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 528.32 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6eed1ffa-a569-4630-8cc2-cbc957bb9ec7")
 		)
@@ -11189,7 +11725,7 @@
 		(dnp no)
 		(uuid "36190ed8-d2d8-465c-9449-2f5095e44be1")
 		(property "Reference" "R7"
-			(at 125.73 162.56 90)
+			(at 125.73 163.322 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11231,6 +11767,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 125.73 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 125.73 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 125.73 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -11311,6 +11869,28 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 176.53 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 176.53 266.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 176.53 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -11426,7 +12006,7 @@
 		(dnp no)
 		(uuid "39b42f72-65e6-43b5-956e-4692632994fb")
 		(property "Reference" "C28"
-			(at 239.776 83.82 0)
+			(at 239.776 81.534 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11437,7 +12017,7 @@
 			)
 		)
 		(property "Value" "47n"
-			(at 239.776 81.28 0)
+			(at 239.776 83.566 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11470,6 +12050,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 241.3 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 241.3 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 241.3 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11736,6 +12338,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 208.28 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 208.28 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0476ae84-df60-4921-8c7d-14330e0ebca1")
 		)
@@ -11763,7 +12387,7 @@
 		(dnp no)
 		(uuid "40d4f8d6-ee75-4f61-a123-aa3f13ffcb1b")
 		(property "Reference" "R47"
-			(at 379.73 43.18 0)
+			(at 378.968 43.434 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11774,7 +12398,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 379.222 45.72 0)
+			(at 378.968 45.466 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11817,6 +12441,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 384.81 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 384.81 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0fd4cfb8-e7f3-4a76-9b62-bce62926f073")
 		)
@@ -11842,7 +12488,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4422ef0d-6b19-43d3-bc04-f4f34bfd3fae")
 		(property "Reference" "#PWR012"
 			(at 293.37 255.27 0)
@@ -11856,7 +12501,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 293.37 246.38 0)
+			(at 293.37 247.396 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11977,6 +12622,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
+			(at 492.76 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 492.76 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "84060408-ead5-4834-ae41-6d63398b5cdb")
 		)
@@ -12001,7 +12668,7 @@
 		(dnp no)
 		(uuid "451a57be-75f3-4e19-bc00-78e87a47b780")
 		(property "Reference" "R49"
-			(at 377.698 60.452 0)
+			(at 377.698 60.198 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12012,7 +12679,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 377.698 62.992 0)
+			(at 377.698 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12055,6 +12722,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 375.92 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 375.92 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3ff48b61-b36b-4c37-a929-5d414c8cbb26")
 		)
@@ -12080,10 +12769,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4566a197-a397-41f3-a99e-0f558b59a224")
 		(property "Reference" "R3"
-			(at 264.16 256.54 90)
+			(at 264.16 258.318 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12093,7 +12781,7 @@
 			)
 		)
 		(property "Value" "10R"
-			(at 264.16 259.08 90)
+			(at 264.16 260.35 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12125,6 +12813,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 264.16 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 264.16 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 264.16 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -12230,7 +12940,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 207.01 154.94 0)
+		(at 207.01 156.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12240,7 +12950,7 @@
 		(dnp no)
 		(uuid "488afcbc-eb11-4c45-a575-524af80928fe")
 		(property "Reference" "R12"
-			(at 201.676 150.876 0)
+			(at 201.676 155.448 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12251,7 +12961,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 201.676 153.416 0)
+			(at 201.676 157.226 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12262,7 +12972,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 205.232 154.94 90)
+			(at 205.232 156.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12273,7 +12983,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 154.94 0)
+			(at 207.01 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12284,7 +12994,29 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 207.01 154.94 0)
+			(at 207.01 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 207.01 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 207.01 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12311,7 +13043,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 48.26 133.35 0)
+		(at 57.15 133.35 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12321,7 +13053,7 @@
 		(dnp no)
 		(uuid "4abde998-70cc-49f7-9ee9-b4c0456884e9")
 		(property "Reference" "J2"
-			(at 46.736 134.62 90)
+			(at 55.626 134.62 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12331,7 +13063,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 48.895 130.81 0)
+			(at 57.785 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12342,7 +13074,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 48.26 133.35 0)
+			(at 57.15 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12353,7 +13085,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 133.35 0)
+			(at 57.15 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12364,7 +13096,29 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 48.26 133.35 0)
+			(at 57.15 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 57.15 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 57.15 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12401,7 +13155,7 @@
 		(dnp no)
 		(uuid "4cc8cbfe-e120-4dd7-8e7f-dbc4697e5386")
 		(property "Reference" "R48"
-			(at 340.868 59.69 0)
+			(at 340.868 60.198 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12412,7 +13166,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 340.868 62.23 0)
+			(at 340.868 61.976 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12455,6 +13209,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 339.09 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 339.09 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2ed146f2-0d75-4df0-879d-94836433931e")
 		)
@@ -12482,7 +13258,7 @@
 		(dnp no)
 		(uuid "4d28f67b-6c48-4668-a77a-45a039c07b90")
 		(property "Reference" "R19"
-			(at 384.81 178.308 90)
+			(at 384.81 177.8 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12492,7 +13268,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 384.81 180.594 90)
+			(at 384.81 179.578 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12524,6 +13300,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 384.81 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 384.81 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 384.81 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -12792,7 +13590,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "535bcece-c20f-496e-afc0-1590b276b8a5")
 		(property "Reference" "#PWR034"
 			(at 384.81 255.27 0)
@@ -12806,7 +13603,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 384.81 246.38 0)
+			(at 384.81 247.396 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12872,7 +13669,7 @@
 		(dnp no)
 		(uuid "5557c42d-f779-4624-b0f3-d5a527a39477")
 		(property "Reference" "R35"
-			(at 334.772 113.792 0)
+			(at 335.026 113.792 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12883,7 +13680,7 @@
 			)
 		)
 		(property "Value" "470k"
-			(at 335.026 115.824 0)
+			(at 334.01 115.824 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12916,6 +13713,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 340.36 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 340.36 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 340.36 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -13005,6 +13824,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 284.48 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 284.48 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "2b227a67-a873-4ac1-9d8d-4cdbab73f0cd")
 		)
@@ -13049,7 +13890,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "559bc1bd-7b1c-42f5-b2f3-11ff1595c6d6")
-		(property "Reference" "D12"
+		(property "Reference" "LED1"
 			(at 391.16 42.926 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13113,6 +13954,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 391.16 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 391.16 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6c6e1bae-d3aa-4d3b-9b09-b165d9766234")
 		)
@@ -13122,7 +13985,7 @@
 		(instances
 			(project "guitar_pedal"
 				(path "/dd0139fe-effa-4fc9-aa3a-e910eab7fd1d"
-					(reference "D12")
+					(reference "LED1")
 					(unit 1)
 				)
 			)
@@ -13204,6 +14067,28 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 365.76 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 365.76 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 365.76 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -13318,7 +14203,7 @@
 		(dnp no)
 		(uuid "595ae124-eeda-4f45-baf7-b675aac6d55a")
 		(property "Reference" "Q3"
-			(at 351.79 88.392 0)
+			(at 351.536 88.392 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13329,7 +14214,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 351.79 90.932 0)
+			(at 351.79 90.424 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13397,6 +14282,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 346.71 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "53eda4cf-f851-4f4b-8a23-1c111f867562")
 		)
@@ -13427,7 +14323,7 @@
 		(dnp no)
 		(uuid "5a6472ee-2178-4215-81fc-02773f64b04d")
 		(property "Reference" "R1"
-			(at 213.106 254 0)
+			(at 214.122 254.762 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13471,6 +14367,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 218.44 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 218.44 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 218.44 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -13583,10 +14501,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5ace91af-6259-487c-b5f4-48766c6c2f74")
 		(property "Reference" "R27"
-			(at 160.02 87.6299 0)
+			(at 159.512 88.138 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13597,7 +14514,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 160.02 90.1699 0)
+			(at 159.512 89.916 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13630,6 +14547,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 157.48 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 157.48 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 157.48 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -13678,7 +14617,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 306.324 267.208 0)
+			(at 306.324 266.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13711,6 +14650,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 304.8 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 304.8 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 304.8 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -13815,7 +14776,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 71.12 139.7 0)
+		(at 77.47 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13825,7 +14786,7 @@
 		(dnp no)
 		(uuid "5c804441-db06-486f-aa16-d237f8499fc4")
 		(property "Reference" "#PWR02"
-			(at 71.12 146.05 0)
+			(at 77.47 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13836,7 +14797,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 74.93 141.732 0)
+			(at 81.28 140.462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13846,7 +14807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 71.12 139.7 0)
+			(at 77.47 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13857,7 +14818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 139.7 0)
+			(at 77.47 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13868,7 +14829,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 71.12 139.7 0)
+			(at 77.47 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13900,10 +14861,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5c83056b-c2b2-4f7c-a9aa-a486398593d9")
 		(property "Reference" "R43"
-			(at 203.2 253.9999 0)
+			(at 202.692 254.2539 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13914,7 +14874,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 203.2 256.5399 0)
+			(at 202.692 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13957,6 +14917,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 200.66 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 200.66 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "89b65d8d-0a92-4b45-aa19-7dee29219712")
 		)
@@ -13974,7 +14956,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 71.12 134.62 180)
+		(at 77.47 133.35 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13982,10 +14964,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5d0ba60a-8c3a-4a32-9fc5-ac18359429f5")
 		(property "Reference" "C7"
-			(at 74.93 133.3499 0)
+			(at 80.518 132.588 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13996,7 +14977,7 @@
 			)
 		)
 		(property "Value" "220p"
-			(at 74.93 135.8899 0)
+			(at 80.518 134.366 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14007,7 +14988,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm"
-			(at 70.1548 130.81 0)
+			(at 76.5048 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14018,7 +14999,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 134.62 0)
+			(at 77.47 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14029,7 +15010,29 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 71.12 134.62 0)
+			(at 77.47 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 77.47 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 77.47 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14066,7 +15069,7 @@
 		(dnp no)
 		(uuid "5eea15ec-9c4b-4da2-800e-36a1261fce79")
 		(property "Reference" "R16"
-			(at 285.75 180.594 90)
+			(at 285.75 180.34 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14076,7 +15079,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 285.75 182.88 90)
+			(at 285.75 182.118 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14118,6 +15121,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 285.75 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 285.75 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4a0719a2-ae1f-4dc9-9273-0161352e24cf")
 		)
@@ -14145,7 +15170,7 @@
 		(dnp no)
 		(uuid "5f331e74-9463-43ce-8f6e-38d5520f6977")
 		(property "Reference" "R14"
-			(at 225.044 169.418 0)
+			(at 225.044 166.624 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14156,7 +15181,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 225.806 166.878 0)
+			(at 226.06 168.402 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14199,6 +15224,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 219.71 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 219.71 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "143ca2f9-dcfb-4ff4-bd8d-5f820114bab8")
 		)
@@ -14226,7 +15273,7 @@
 		(dnp no)
 		(uuid "631db0e7-bffc-4ed1-a61e-150287373b11")
 		(property "Reference" "R30"
-			(at 236.982 71.374 90)
+			(at 236.982 69.596 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14237,7 +15284,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 236.728 69.342 90)
+			(at 236.728 71.374 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14270,6 +15317,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 234.95 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 234.95 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 234.95 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -14384,7 +15453,7 @@
 		(dnp no)
 		(uuid "67905cf5-2dcc-4d06-b8e1-0d6f87eb5160")
 		(property "Reference" "R33"
-			(at 288.544 57.15 90)
+			(at 288.544 55.118 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14395,7 +15464,7 @@
 			)
 		)
 		(property "Value" "4.7M"
-			(at 288.544 54.61 90)
+			(at 289.306 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14438,6 +15507,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 287.02 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 287.02 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae085628-0abd-41d7-bda6-adb15b0f6f7d")
 		)
@@ -14465,7 +15556,7 @@
 		(dnp no)
 		(uuid "6b74154d-c002-423b-95f8-5d915e890b8d")
 		(property "Reference" "R17"
-			(at 296.926 186.944 0)
+			(at 296.926 185.674 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14476,7 +15567,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 296.418 189.484 0)
+			(at 296.418 187.706 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14509,6 +15600,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 302.26 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 302.26 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 302.26 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -14601,6 +15714,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
+			(at 492.76 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 492.76 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "79b7536f-85db-46ec-809d-3962638011e5")
 		)
@@ -14623,10 +15758,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6e530f94-10e1-46e3-b12a-91e72d26ab2a")
 		(property "Reference" "U5"
-			(at 250.19 252.73 0)
+			(at 251.968 255.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14636,7 +15770,7 @@
 			)
 		)
 		(property "Value" "LM358"
-			(at 250.19 255.27 0)
+			(at 251.968 257.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14668,6 +15802,28 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 250.19 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 250.19 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 250.19 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -14765,6 +15921,28 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 259.08 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 259.08 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 259.08 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -14977,6 +16155,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 382.27 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "fdc4e21e-5119-447d-b209-0ee437ec4e9c")
 		)
@@ -14997,7 +16186,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 59.69 139.7 0)
+		(at 67.31 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15007,7 +16196,7 @@
 		(dnp no)
 		(uuid "73486a29-7996-4b3c-98fb-edeb84dc9c46")
 		(property "Reference" "#PWR01"
-			(at 59.69 146.05 0)
+			(at 67.31 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15018,7 +16207,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 63.246 141.478 0)
+			(at 70.866 140.208 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15028,7 +16217,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 139.7 0)
+			(at 67.31 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15039,7 +16228,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 139.7 0)
+			(at 67.31 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15050,7 +16239,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 59.69 139.7 0)
+			(at 67.31 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15095,7 +16284,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 342.138 93.472 0)
+			(at 342.138 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15128,6 +16317,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 340.36 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 340.36 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 340.36 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15241,7 +16452,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "766c29ed-027e-4f55-a867-fe99e0c6c136")
 		(property "Reference" "#PWR011"
 			(at 361.95 278.13 0)
@@ -15255,7 +16465,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 361.95 276.86 0)
+			(at 361.95 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15476,7 +16686,7 @@
 		(dnp no)
 		(uuid "7b7682cd-64d4-4f95-96b3-db8445f7f47e")
 		(property "Reference" "R15"
-			(at 241.3 157.48 90)
+			(at 241.3 158.242 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15486,7 +16696,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 241.3 159.766 90)
+			(at 241.3 160.274 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15528,6 +16738,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 241.3 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 241.3 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1fa57617-f6f0-4d3d-b35a-9d9067b315da")
 		)
@@ -15545,7 +16777,7 @@
 	)
 	(symbol
 		(lib_id "power:+9V")
-		(at 276.86 261.62 0)
+		(at 275.59 261.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15556,7 +16788,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d44d12c-0431-4a3d-97d1-b72bc5af4339")
 		(property "Reference" "#PWR026"
-			(at 276.86 265.43 0)
+			(at 275.59 265.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15567,7 +16799,7 @@
 			)
 		)
 		(property "Value" "+4.5V"
-			(at 276.86 256.54 0)
+			(at 275.59 256.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15577,7 +16809,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 261.62 0)
+			(at 275.59 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15588,7 +16820,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 261.62 0)
+			(at 275.59 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15599,7 +16831,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+9V\""
-			(at 276.86 261.62 0)
+			(at 275.59 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15623,7 +16855,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 77.47 128.27 90)
+		(at 82.55 128.27 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15631,10 +16863,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7d582feb-e48a-4465-b086-43ccc0a3fc4f")
 		(property "Reference" "C8"
-			(at 77.47 120.65 90)
+			(at 82.55 122.682 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15644,7 +16875,7 @@
 			)
 		)
 		(property "Value" "47n"
-			(at 77.47 123.19 90)
+			(at 82.55 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15654,7 +16885,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 81.28 127.3048 0)
+			(at 86.36 127.3048 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15665,7 +16896,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 128.27 0)
+			(at 82.55 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15676,7 +16907,29 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 77.47 128.27 0)
+			(at 82.55 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 82.55 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 82.55 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15765,6 +17018,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 195.58 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 195.58 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d852268a-e2d8-4761-9c49-73397b822daf")
 		)
@@ -15792,7 +17067,7 @@
 		(dnp no)
 		(uuid "7e2e1f56-4bce-4b6b-9047-75574f5329b9")
 		(property "Reference" "C30"
-			(at 468.376 137.16 0)
+			(at 468.376 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15802,7 +17077,7 @@
 			)
 		)
 		(property "Value" "4.7n"
-			(at 468.376 135.128 0)
+			(at 468.63 137.668 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15834,6 +17109,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 473.71 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 473.71 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 473.71 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -15916,6 +17213,28 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 341.63 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 341.63 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 341.63 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -16023,6 +17342,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 195.58 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 195.58 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4079f406-8e2b-42f3-b948-458b453e943f")
 		)
@@ -16050,7 +17391,7 @@
 		(dnp no)
 		(uuid "7ef3b758-0615-47e3-9d0a-4e9a579b36f8")
 		(property "Reference" "C16"
-			(at 293.116 173.99 0)
+			(at 293.116 171.958 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16061,7 +17402,7 @@
 			)
 		)
 		(property "Value" "100p"
-			(at 293.116 171.45 0)
+			(at 293.116 173.736 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16094,6 +17435,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 295.91 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 295.91 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 295.91 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -16205,6 +17568,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 326.39 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 326.39 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f979afc4-0a94-4320-a88b-94182aaa2e53")
 		)
@@ -16306,6 +17691,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 326.39 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 326.39 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d2cc1ba1-2210-4870-9ef9-c7d4042001ce")
 		)
@@ -16344,7 +17751,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 240.538 270.51 0)
+			(at 240.538 270.002 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16387,6 +17794,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 233.68 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f1679c62-e5d2-4ac7-8de4-2e4d694b646e")
 		)
@@ -16414,7 +17832,7 @@
 		(dnp no)
 		(uuid "80d02f3a-3ce7-4325-a9d4-28daae3efd87")
 		(property "Reference" "R39"
-			(at 512.572 137.668 0)
+			(at 512.572 136.398 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16425,7 +17843,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 511.556 140.208 0)
+			(at 511.556 138.176 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16458,6 +17876,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 518.16 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 518.16 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 518.16 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16628,6 +18068,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 295.91 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 295.91 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2166ec0d-d65c-48f0-9304-89b502f06d53")
 		)
@@ -16673,7 +18135,7 @@
 		(dnp no)
 		(uuid "86dcb7c9-b5d6-464e-93e6-58c501789cbb")
 		(property "Reference" "C24"
-			(at 128.27 61.722 90)
+			(at 128.27 62.992 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16683,7 +18145,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 128.27 64.262 90)
+			(at 128.27 65.024 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16725,6 +18187,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 128.27 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 128.27 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "42dc0cb7-1fbc-4579-98ca-0ed9945288c5")
 		)
@@ -16752,7 +18236,7 @@
 		(dnp no)
 		(uuid "8b3bcd4c-a746-481f-9de6-14683a6d5eb6")
 		(property "Reference" "R45"
-			(at 344.678 38.608 90)
+			(at 344.678 36.576 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16763,7 +18247,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 345.186 36.576 90)
+			(at 345.186 38.354 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16796,6 +18280,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 342.9 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 342.9 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 342.9 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -16964,6 +18470,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 302.26 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c5cc2ee6-d235-45d9-ba18-b2338b1738c3")
 		)
@@ -16994,7 +18511,7 @@
 		(dnp no)
 		(uuid "90959362-401a-4603-bea6-e2317cc9f68d")
 		(property "Reference" "R36"
-			(at 352.552 105.156 90)
+			(at 352.298 105.156 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17038,6 +18555,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 354.33 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 354.33 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 354.33 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17205,6 +18744,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 287.02 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 287.02 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "e8465ce2-415b-49f8-91c6-5bc07970566b")
 		)
@@ -17302,6 +18863,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 144.78 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 144.78 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "997a8747-41a1-4d7c-a920-7f81a336466d")
 		)
@@ -17358,7 +18941,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 329.184 267.208 0)
+			(at 329.184 266.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17391,6 +18974,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 327.66 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 327.66 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 327.66 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -17439,7 +19044,7 @@
 			)
 		)
 		(property "Value" "47u"
-			(at 221.742 270.51 0)
+			(at 221.742 270.002 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17449,7 +19054,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 228.2952 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -17472,6 +19077,28 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 227.33 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 227.33 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 227.33 265.43 0)
 			(hide yes)
 			(show_name no)
@@ -17665,6 +19292,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 345.44 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "30accd8b-00d3-426f-8df4-1e57f29049c9")
 		)
@@ -17747,6 +19385,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 377.19 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 377.19 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a0363f00-61b7-45be-a177-fc1a86a9aad0")
 		)
@@ -17774,7 +19434,7 @@
 		(dnp no)
 		(uuid "a224673c-84fd-4c0b-a74f-e46bace8270d")
 		(property "Reference" "C14"
-			(at 213.36 156.464 90)
+			(at 213.36 157.226 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17826,6 +19486,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 213.36 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 213.36 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2ea37470-b454-45ba-b3f4-58c856bbbf4c")
 		)
@@ -17853,7 +19535,7 @@
 		(dnp no)
 		(uuid "a2e37bca-3b99-4cce-a661-ccfb69bf8346")
 		(property "Reference" "C31"
-			(at 504.19 136.144 90)
+			(at 504.19 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17863,7 +19545,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 504.19 138.684 90)
+			(at 504.19 137.668 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17895,6 +19577,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 504.19 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 504.19 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 504.19 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -17986,6 +19690,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 382.27 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 382.27 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9a834077-8fbf-4c73-b819-4b97029bb56b")
 		)
@@ -18003,7 +19729,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 473.71 154.94 180)
+		(at 473.71 153.67 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18013,7 +19739,7 @@
 		(dnp no)
 		(uuid "a430e768-9bfc-45e6-88fd-1129688a4feb")
 		(property "Reference" "R24"
-			(at 470.154 155.956 0)
+			(at 470.154 152.654 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18023,7 +19749,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 470.154 153.67 0)
+			(at 470.408 154.686 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18033,7 +19759,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 475.488 154.94 90)
+			(at 475.488 153.67 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18044,7 +19770,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 473.71 154.94 0)
+			(at 473.71 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18055,7 +19781,29 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 473.71 154.94 0)
+			(at 473.71 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 473.71 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 473.71 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18092,7 +19840,7 @@
 		(dnp no)
 		(uuid "a5fb70bd-5a6e-41c5-bfaa-5429db0a11fd")
 		(property "Reference" "R2"
-			(at 213.106 263.9059 0)
+			(at 214.122 264.668 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18103,7 +19851,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 213.106 265.938 0)
+			(at 213.106 266.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18146,6 +19894,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 218.44 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 218.44 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "135459af-c9df-48c8-b421-335739935587")
 		)
@@ -18163,7 +19933,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 276.86 273.05 0)
+		(at 275.59 273.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18173,7 +19943,7 @@
 		(dnp no)
 		(uuid "a62e112c-a901-4fce-a381-81388b416455")
 		(property "Reference" "#PWR025"
-			(at 276.86 279.4 0)
+			(at 275.59 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18184,7 +19954,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 276.86 277.368 0)
+			(at 275.59 277.368 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18194,7 +19964,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 273.05 0)
+			(at 275.59 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18205,7 +19975,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 273.05 0)
+			(at 275.59 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18216,7 +19986,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 276.86 273.05 0)
+			(at 275.59 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18261,7 +20031,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 374.904 267.208 0)
+			(at 374.904 266.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18294,6 +20064,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 373.38 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 373.38 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 373.38 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -18342,7 +20134,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 352.044 267.208 0)
+			(at 352.044 266.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18385,6 +20177,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 350.52 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 350.52 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b6d56e01-d26c-49aa-a6fc-076991ef6c85")
 		)
@@ -18412,7 +20226,7 @@
 		(dnp no)
 		(uuid "a9a566d9-b529-47c1-b4ae-bc7ceb2775e9")
 		(property "Reference" "Q2"
-			(at 352.044 110.9979 0)
+			(at 351.79 110.998 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18423,7 +20237,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 351.79 113.284 0)
+			(at 352.044 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18491,6 +20305,17 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 346.71 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "c2d7880d-2acc-4daa-9e06-27c25f8593f0")
 		)
@@ -18521,7 +20346,7 @@
 		(dnp no)
 		(uuid "ad1a97f4-e127-4799-9706-47e83856e375")
 		(property "Reference" "C19"
-			(at 329.438 173.99 0)
+			(at 329.184 171.958 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18532,7 +20357,7 @@
 			)
 		)
 		(property "Value" "4.7n"
-			(at 329.438 171.45 0)
+			(at 329.438 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18565,6 +20390,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 322.58 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 322.58 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 322.58 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -18623,7 +20470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 187.6552 266.7 0)
 			(hide yes)
 			(show_name no)
@@ -18646,6 +20493,28 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 186.69 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 186.69 262.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 186.69 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -18750,7 +20619,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 276.86 267.97 180)
+		(at 275.59 267.97 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18760,7 +20629,7 @@
 		(dnp no)
 		(uuid "afec4fd5-c0d2-4ef5-92cc-5ccb6e6ed378")
 		(property "Reference" "C5"
-			(at 282.702 266.954 0)
+			(at 281.432 266.954 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18771,7 +20640,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 284.988 269.24 0)
+			(at 283.718 269.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18782,7 +20651,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 275.8948 264.16 0)
+			(at 274.6248 264.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18793,7 +20662,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 267.97 0)
+			(at 275.59 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18804,7 +20673,29 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 276.86 267.97 0)
+			(at 275.59 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 275.59 267.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 275.59 267.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18841,7 +20732,7 @@
 		(dnp no)
 		(uuid "b2ef9356-eed7-4ac5-9985-795602ccc7f1")
 		(property "Reference" "R41"
-			(at 336.804 83.82 90)
+			(at 337.058 82.296 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18852,7 +20743,7 @@
 			)
 		)
 		(property "Value" "2.2k"
-			(at 336.804 81.28 90)
+			(at 337.566 84.074 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18885,6 +20776,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 335.28 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 335.28 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 335.28 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -19053,6 +20966,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 229.87 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f6ae34bd-fce5-4abf-ba9a-251324bbc139")
 		)
@@ -19158,7 +21082,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b7921245-5776-48ae-8f85-7cf74f55b1c4")
 		(property "Reference" "#PWR045"
 			(at 339.09 255.27 0)
@@ -19172,7 +21095,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 339.09 246.38 0)
+			(at 339.09 247.396 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19314,6 +21237,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 347.98 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 347.98 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6c82b853-7034-4ded-8b66-efd7241c7e79")
 		)
@@ -19331,7 +21276,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 139.7 0)
+		(at 63.5 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19341,7 +21286,7 @@
 		(dnp no)
 		(uuid "babcf97b-2342-4cac-97f7-d313a60315e2")
 		(property "Reference" "#PWR061"
-			(at 54.61 146.05 0)
+			(at 63.5 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19352,7 +21297,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 51.054 141.478 0)
+			(at 59.944 140.208 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19362,7 +21307,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 139.7 0)
+			(at 63.5 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19373,7 +21318,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 139.7 0)
+			(at 63.5 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19384,7 +21329,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 139.7 0)
+			(at 63.5 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19429,7 +21374,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 397.764 267.208 0)
+			(at 397.764 266.446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19472,6 +21417,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 396.24 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 396.24 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2aad4a63-2b7c-4ed6-819c-8f12ff1367a1")
 		)
@@ -19497,10 +21464,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bda2ebea-f7bf-44a5-9327-b50c7ca85691")
-		(property "Reference" "D10"
-			(at 204.47 264.4774 90)
+		(property "Reference" "LED3"
+			(at 203.454 262.89 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19511,7 +21477,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 204.47 267.0174 90)
+			(at 203.454 264.8586 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19565,6 +21531,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 200.66 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 200.66 264.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b573bb23-1102-44ac-97e0-15bc75c71620")
 		)
@@ -19574,7 +21562,7 @@
 		(instances
 			(project "guitar_pedal"
 				(path "/dd0139fe-effa-4fc9-aa3a-e910eab7fd1d"
-					(reference "D10")
+					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -19590,7 +21578,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "beeb14e1-2632-4561-bacf-8df9dd691efd")
 		(property "Reference" "#PWR013"
 			(at 293.37 278.13 0)
@@ -19604,7 +21591,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 293.37 276.86 0)
+			(at 293.37 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19670,7 +21657,7 @@
 		(dnp no)
 		(uuid "bff38b8f-24c4-4628-8d89-35114ea6dd2d")
 		(property "Reference" "C12"
-			(at 179.07 176.784 90)
+			(at 179.07 174.244 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19680,7 +21667,7 @@
 			)
 		)
 		(property "Value" "47n"
-			(at 179.07 174.244 90)
+			(at 179.07 176.022 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19712,6 +21699,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 179.07 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 179.07 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 179.07 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -19901,7 +21910,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c1c512e9-fc34-41f9-81df-6e6a00b52fbd")
 		(property "Reference" "#PWR07"
 			(at 316.23 278.13 0)
@@ -19915,7 +21923,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 316.23 276.86 0)
+			(at 316.23 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19981,7 +21989,7 @@
 		(dnp no)
 		(uuid "c3413f90-01cc-499f-9b74-68792c3b672a")
 		(property "Reference" "R9"
-			(at 168.148 177.546 0)
+			(at 168.402 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19992,7 +22000,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 168.148 175.006 0)
+			(at 168.402 177.038 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20025,6 +22033,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 170.18 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 170.18 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 170.18 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -20116,6 +22146,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 264.16 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "827c8e8f-834b-403f-b485-8ce041c26df4")
 		)
@@ -20146,7 +22187,7 @@
 		(dnp no)
 		(uuid "c5fb188d-5472-41d4-9197-773cada3ddb9")
 		(property "Reference" "R46"
-			(at 372.364 53.34 90)
+			(at 372.618 51.816 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20157,7 +22198,7 @@
 			)
 		)
 		(property "Value" "22k"
-			(at 372.364 50.8 90)
+			(at 372.364 53.594 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20200,6 +22241,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 370.84 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 370.84 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9001f906-1c68-4695-a991-9264c96e5473")
 		)
@@ -20227,7 +22290,7 @@
 		(dnp no)
 		(uuid "c6014456-8fea-49a2-9982-0ada8fb03a9f")
 		(property "Reference" "R34"
-			(at 337.058 106.934 90)
+			(at 337.566 105.156 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20238,7 +22301,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 337.312 104.648 90)
+			(at 337.312 106.934 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20271,6 +22334,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 335.28 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 335.28 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 335.28 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -20396,7 +22481,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 391.668 181.61 0)
+			(at 391.668 181.102 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20429,6 +22514,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 389.89 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 389.89 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 389.89 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -20520,6 +22627,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 260.35 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 260.35 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f037893e-9179-4009-a1d8-1a57fa99496b")
 		)
@@ -20557,7 +22686,7 @@
 			)
 		)
 		(property "Value" "47n"
-			(at 134.62 173.99 90)
+			(at 134.62 173.482 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20589,6 +22718,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 134.62 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 134.62 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 134.62 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -20701,10 +22852,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cf24c356-c70d-449a-a751-05edadd5156f")
 		(property "Reference" "R28"
-			(at 180.34 64.77 90)
+			(at 180.34 66.548 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20714,7 +22864,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 180.34 67.31 90)
+			(at 180.34 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20746,6 +22896,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 180.34 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 180.34 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 180.34 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -20838,6 +23010,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "mounting_hardware/mounting_hole"
+			(at 492.76 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 492.76 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ffe89920-ba3a-4cf9-bb72-294351e31335")
 		)
@@ -20852,7 +23046,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 64.77 128.27 90)
+		(at 72.39 128.27 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20860,10 +23054,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d02e3575-e534-45fa-90aa-9a445447dc29")
 		(property "Reference" "R4"
-			(at 64.77 121.92 90)
+			(at 72.39 124.206 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20873,7 +23066,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 64.77 124.46 90)
+			(at 72.39 125.984 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20883,7 +23076,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 64.77 130.048 90)
+			(at 72.39 130.048 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20894,7 +23087,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 128.27 0)
+			(at 72.39 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20905,7 +23098,29 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 64.77 128.27 0)
+			(at 72.39 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 72.39 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 72.39 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21020,7 +23235,7 @@
 		(dnp no)
 		(uuid "d371a074-1028-45e4-aabb-4acd098df636")
 		(property "Reference" "R23"
-			(at 432.562 167.386 0)
+			(at 432.308 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21031,7 +23246,7 @@
 			)
 		)
 		(property "Value" "470k"
-			(at 432.562 169.926 0)
+			(at 432.308 168.402 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21074,6 +23289,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 430.53 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 430.53 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d3a897b3-3d88-4f2f-b9c2-b7350c24f8a0")
 		)
@@ -21101,7 +23338,7 @@
 		(dnp no)
 		(uuid "d3ebb2b1-de49-4900-b4f7-346d3dff73ac")
 		(property "Reference" "RV2"
-			(at 388.874 166.878 0)
+			(at 389.128 166.878 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21112,7 +23349,7 @@
 			)
 		)
 		(property "Value" "22k"
-			(at 389.128 169.164 0)
+			(at 389.128 168.656 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21145,6 +23382,17 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
+			(at 391.16 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
 			(at 391.16 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -21393,6 +23641,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 354.33 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 354.33 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3677be65-9e8b-4506-8ef5-1c8c272339c5")
 		)
@@ -21496,6 +23766,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 246.38 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 246.38 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d598f226-f1fa-4f6f-b80e-e91ccb34adf4")
 		)
@@ -21568,6 +23860,28 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 387.35 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 387.35 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 387.35 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -21754,6 +24068,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 405.13 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "531ed4f9-c80b-482b-8c61-9def555a28c6")
 		)
@@ -21828,6 +24153,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 256.54 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 256.54 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 256.54 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -21939,6 +24286,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 328.93 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 328.93 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "efca44e1-62f6-408b-a0d8-bbea6150eb08")
 		)
@@ -21966,7 +24335,7 @@
 		(dnp no)
 		(uuid "e391b127-c16a-40c2-9c3a-d6000ab19ca8")
 		(property "Reference" "C11"
-			(at 165.1 163.83 90)
+			(at 165.1 164.338 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22018,6 +24387,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 165.1 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 165.1 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "97d6e93f-4ec2-4ed6-96b7-be0e58daae16")
 		)
@@ -22043,10 +24434,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e489624b-b744-4cfe-9828-299fee7ef140")
 		(property "Reference" "D9"
-			(at 181.9275 250.19 0)
+			(at 181.864 250.698 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22098,6 +24488,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "diode/THT"
+			(at 181.61 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3194823c-92ec-4aeb-81e3-2ad3053fc0f5")
 		)
@@ -22123,10 +24535,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e54c49a0-d36e-4d7d-b6ba-1b8898ff4a4a")
 		(property "Reference" "R13"
-			(at 209.55 179.0699 0)
+			(at 208.788 179.324 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22137,7 +24548,7 @@
 			)
 		)
 		(property "Value" "22R"
-			(at 209.55 181.6099 0)
+			(at 208.788 181.1021 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22170,6 +24581,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 207.01 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 207.01 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 207.01 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -22217,7 +24650,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 416.56 179.324 90)
+			(at 416.56 179.07 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22249,6 +24682,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 416.56 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 416.56 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 416.56 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -22296,7 +24751,7 @@
 			)
 		)
 		(property "Value" "47n"
-			(at 425.45 180.594 90)
+			(at 425.45 180.086 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22338,6 +24793,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 425.45 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 425.45 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12e16f66-de18-4d18-90c2-2f71cf87a625")
 		)
@@ -22366,7 +24843,7 @@
 		(dnp no)
 		(uuid "e8bcba2c-d603-45ae-b22f-afbecb7c44c3")
 		(property "Reference" "C27"
-			(at 218.44 82.9309 0)
+			(at 218.44 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22377,7 +24854,7 @@
 			)
 		)
 		(property "Value" "4.7u"
-			(at 218.44 85.4709 0)
+			(at 218.948 85.852 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22420,6 +24897,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 222.25 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 222.25 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4a47a319-dd51-42c9-a9c6-14bfff714840")
 		)
@@ -22445,7 +24944,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ea9911a2-b4ab-4188-b930-37e4814c816b")
 		(property "Reference" "#PWR03"
 			(at 87.63 121.92 0)
@@ -22459,7 +24957,7 @@
 			)
 		)
 		(property "Value" "+4.5V"
-			(at 87.63 113.03 0)
+			(at 87.63 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22600,7 +25098,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eb050e1c-28e3-4c70-8036-2d8061f816db")
 		(property "Reference" "#PWR06"
 			(at 316.23 255.27 0)
@@ -22614,7 +25111,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 316.23 246.38 0)
+			(at 316.23 247.396 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22678,10 +25175,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ed295682-00e4-405c-931b-46222b707415")
 		(property "Reference" "C26"
-			(at 163.83 76.1999 0)
+			(at 163.068 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22692,7 +25188,7 @@
 			)
 		)
 		(property "Value" "10p"
-			(at 163.83 78.7399 0)
+			(at 163.068 78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22735,6 +25231,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 160.02 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 160.02 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e9479844-fe7e-4067-851c-19947dc1f3eb")
 		)
@@ -22762,7 +25280,7 @@
 		(dnp no)
 		(uuid "ee3776a3-1a29-4f9b-9b3c-d867f4c53d7b")
 		(property "Reference" "C17"
-			(at 298.958 198.12 0)
+			(at 299.466 194.818 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22773,7 +25291,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 298.958 195.58 0)
+			(at 299.466 196.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22816,6 +25334,28 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "capacitor/THT/other"
+			(at 302.26 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 302.26 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "94f20c2c-dd64-4bf6-aac8-dccc2b78bc21")
 		)
@@ -22841,7 +25381,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f0422703-e0db-4458-8cd4-4900ab1713fd")
 		(property "Reference" "#PWR046"
 			(at 339.09 278.13 0)
@@ -22855,7 +25394,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 339.09 276.86 0)
+			(at 339.09 275.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22932,7 +25471,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 512.318 129.794 90)
+			(at 511.048 129.794 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22965,6 +25504,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 513.08 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 513.08 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 513.08 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -23124,6 +25685,28 @@
 			)
 		)
 		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(at 364.49 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/DIP/legacy"
+			(at 364.49 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 364.49 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -23377,6 +25960,28 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 334.01 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "resistor/THT"
+			(at 334.01 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
 			(at 334.01 55.88 0)
 			(hide yes)
 			(show_name no)
